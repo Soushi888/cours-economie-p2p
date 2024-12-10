@@ -8,42 +8,42 @@ Explorer et comprendre les concepts fondamentaux de l'économie P2P et de l'inte
 
 ## Structure du cours
 
-### Session 1 : Introduction à La Tramice et aux outils de reconnaissance
+### [Session 1 : Introduction à La Tramice et aux outils de reconnaissance](sessions/session1/README.md)
 **Intervenant : Frédo, fondateur de La Tramice**
 - Présentation de La Tramice
 - Introduction aux carnets de reconnaissance
 - Exploration des volios
 - Applications pratiques et philosophie sous-jacente
 
-### Session 2 : Sensorica et l'économie p2p
+### [Session 2 : Sensorica et l'économie p2p](sessions/session2/README.md)
 **Intervenant : Tibi, fondateur de Sensorica**
 - Introduction au modèle d'économie P2P
 - Principes de la collaboration ouverte
 - Étude de cas concrets
 - Discussion sur les implications pratiques
 
-### Session 3 : Holochain et les monnaies de crédit mutuel
+### [Session 3 : Holochain et les monnaies de crédit mutuel](sessions/session3/README.md)
 **Intervenant : Sacha Pignot, Expert en Holochain et Mutual Credit Currencies**
 - Introduction à Holochain
 - Comprendre les monnaies de crédit mutuel
 - Applications pratiques dans l'économie P2P
 - Démonstrations et exemples concrets
 
-### Session 4 : Blockchain et Cardano
+### [Session 4 : Blockchain et Cardano](sessions/session4/README.md)
 **Intervenant : Sebastien Lafreniere, expert en Cardano et marche des cryptomonnaies**
 - Fondamentaux de la technologie blockchain
 - Introduction à Cardano
 - Projets concrets dans les cryptomonnaies
 - Applications des technologies décentralisées
 
-### Session 5 : Intelligence artificielle
+### [Session 5 : Intelligence artificielle](sessions/session5/README.md)
 **Intervenant : Bruno**
 - Introduction à l'IA
 - Rôle de l'IA dans l'économie P2P
 - Synergies entre IA et modèles economiques alternatifs
 - Cas d'usage et applications pratiques
 
-### Session 6 : Conclusion et perspectives d'avenir
+### [Session 6 : Conclusion et perspectives d'avenir](sessions/session6/README.md)
 - Synthèse des sessions précédentes
 - L'avenir de l'économie de l'information
 - L'éducation dans un contexte P2P
