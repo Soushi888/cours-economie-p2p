@@ -36,12 +36,13 @@ Explorer et comprendre les concepts fondamentaux de l'économie P2P et de l'inte
 - Projets concrets dans les cryptomonnaies
 - Applications des technologies décentralisées
 
-### [Session 5 : Intelligence artificielle](sessions/session5/README.md)
+### [Session 5 : Observations de Bruno sur les cerveaux à base de carbone et de silicone](sessions/session5/README.md)
 **Intervenant : Bruno**
-- Introduction à l'IA
-- Rôle de l'IA dans l'économie P2P
-- Synergies entre IA et modèles economiques alternatifs
-- Cas d'usage et applications pratiques
+- Intervenant : Bruno, auteur et vulgarisateur scientifique
+- Comparaison des cerveaux humains (carbone) et des IA (silicone)
+- Similarités et différences dans le traitement de l'information
+- Implications sociales et éthiques
+- Observations faites durant les sessions précédentes
 
 ### [Session 6 : Conclusion et perspectives d'avenir](sessions/session6/README.md)
 - Synthèse des sessions précédentes
