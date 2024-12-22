@@ -35,8 +35,7 @@ Explorer et comprendre les concepts fondamentaux de l'économie P2P et de l'inte
 - Introduction aux carnets de reconnaissance
 - Exploration des volios
 - Applications pratiques et philosophie sous-jacente
-**Intervention de Bruno**
-- Intervenant : Bruno, auteur et vulgarisateur scientifique
+**Intervention de Bruno**, auteur et vulgarisateur scientifique
 - Comparaison des cerveaux humains (carbone) et des IA (silicone)
 - Similarités et différences dans le traitement de l'information
 - Implications sociales et éthiques
