@@ -1,35 +1,35 @@
-# Économie P2P et IA
+# Économie P2P
 
 ## À propos du cours
-Ce cours, offert par l'Université Populaire de Montréal, explore les concepts d'économie pair-à-pair (P2P) et d'intelligence artificielle, en mettant l'accent sur les applications pratiques et les implications futures.
+Ce cours, offert par l'Université Populaire de Montréal, explore les concepts d'économie pair-à-pair (P2P) en mettant l'accent sur les applications pratiques et les implications futures.
 
 ## Objectif général
-Explorer et comprendre les concepts fondamentaux de l'économie P2P et de l'intelligence artificielle, leurs interactions et leurs impacts sur notre société.
+Explorer et comprendre les concepts fondamentaux de l'économie P2P, ses applications et ses impacts sur notre société.
 
 ## Structure du cours
 
-### [Session 1 : Sensorica et l'économie p2p](sessions/session2/README.md)
+### [Session 1 : Sensorica et l'économie p2p](./sessions/session1/README.md)
 **Intervenant : Tibi, fondateur de Sensorica**
 - Introduction au modèle d'économie P2P
 - Principes de la collaboration ouverte
 - Étude de cas concrets
 - Discussion sur les implications pratiques
 
-### [Session 2 : Blockchain et cryptomonnaies](sessions/session4/README.md)
+### [Session 2 : Blockchain et cryptomonnaies](./sessions/session2/README.md)
 **Intervenant : Pascal Ngu Cho, expert en Blockchain et marche des cryptomonnaies**
 - Fondamentaux de la technologie blockchain
 - Fondamentaux des cryptomonnaies
 - Applications des technologies Blockchains
     - NFT, DeFi, SocialFi, GameFi, etc.
 
-### [Session 3 : Holochain et les monnaies de crédit mutuel](sessions/session3/README.md)
+### [Session 3 : Holochain et les monnaies de crédit mutuel](./sessions/session3/README.md)
 **Intervenant : Sacha Pignot, Expert en Holochain et Mutual Credit Currencies**
 - Introduction à Holochain
 - Comprendre les monnaies de crédit mutuel
 - Applications pratiques dans l'économie P2P
 - Démonstrations et exemples concrets
 
-### [Session 4 : Conclusion et perspectives d'avenir](sessions/session6/README.md)
+### [Session 4 : Conclusion et perspectives d'avenir](./sessions/session4/README.md)
 - Synthèse des sessions précédentes
 - L'avenir de l'économie de l'information
 - L'éducation dans un contexte P2P
@@ -37,7 +37,7 @@ Explorer et comprendre les concepts fondamentaux de l'économie P2P et de l'inte
 
 ## Structure du répertoire
 ```
-cours-economie-p2p-ia/
+cours-economie-p2p/
 ├── README.md
 ├── sessions/
 │   ├── session1/
