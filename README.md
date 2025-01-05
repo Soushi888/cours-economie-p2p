@@ -1,7 +1,7 @@
-# Économie P2P
+# Économie Pair-à-Pair (P2P)
 
 ## À propos du cours
-Ce cours, offert par l'Université Populaire de Montréal, explore les concepts d'économie pair-à-pair (P2P) en mettant l'accent sur les applications pratiques et les implications futures.
+Ce cours innovant explore l'économie pair-à-pair (P2P), un modèle économique émergent basé sur la collaboration directe et horizontale. À travers des études de cas concrets et l'intervention d'experts, les participants découvriront les principes des économies décentralisées, les technologies transformatives comme la blockchain et Holochain, et les nouvelles formes de création de valeur collaborative. Une exploration pratique des alternatives aux systèmes économiques traditionnels.
 
 ## Objectif général
 Explorer et comprendre les concepts fondamentaux de l'économie P2P, ses applications et ses impacts sur notre société.
