@@ -15,33 +15,21 @@ Explorer et comprendre les concepts fondamentaux de l'économie P2P et de l'inte
 - Étude de cas concrets
 - Discussion sur les implications pratiques
 
-### [Session 2 : Holochain et les monnaies de crédit mutuel](sessions/session3/README.md)
+### [Session 2 : Blockchain et cryptomonnaies](sessions/session4/README.md)
+**Intervenant : Pascal Ngu Cho, expert en Blockchain et marche des cryptomonnaies**
+- Fondamentaux de la technologie blockchain
+- Fondamentaux des cryptomonnaies
+- Applications des technologies Blockchains
+    - NFT, DeFi, SocialFi, GameFi, etc.
+
+### [Session 3 : Holochain et les monnaies de crédit mutuel](sessions/session3/README.md)
 **Intervenant : Sacha Pignot, Expert en Holochain et Mutual Credit Currencies**
 - Introduction à Holochain
 - Comprendre les monnaies de crédit mutuel
 - Applications pratiques dans l'économie P2P
 - Démonstrations et exemples concrets
 
-### [Session 3 : Blockchain et Cardano](sessions/session4/README.md)
-**Intervenant : Sebastien Lafreniere, expert en Cardano et marche des cryptomonnaies**
-- Fondamentaux de la technologie blockchain
-- Introduction à Cardano
-- Projets concrets dans les cryptomonnaies
-- Applications des technologies décentralisées
-
-### [Session 4 : Introduction à La Tramice, aux outils de reconnaissance, et implications pour l'avenir de l'intelligence sociale](sessions/session1/README.md)
-**Intervenant : Frédo, fondateur de La Tramice**
-- Présentation de La Tramice
-- Introduction aux carnets de reconnaissance
-- Exploration des volios
-- Applications pratiques et philosophie sous-jacente
-**Intervention de Bruno**, auteur et vulgarisateur scientifique
-- Comparaison des cerveaux humains (carbone) et des IA (silicone)
-- Similarités et différences dans le traitement de l'information
-- Implications sociales et éthiques
-- Observations faites durant les sessions précédentes
-
-### [Session 5 : Conclusion et perspectives d'avenir](sessions/session6/README.md)
+### [Session 4 : Conclusion et perspectives d'avenir](sessions/session6/README.md)
 - Synthèse des sessions précédentes
 - L'avenir de l'économie de l'information
 - L'éducation dans un contexte P2P
@@ -55,10 +43,7 @@ cours-economie-p2p-ia/
 │   ├── session1/
 │   ├── session2/
 │   ├── session3/
-│   ├── session4/
-│   └── session5/
-├── ressources/
-└── presentations/
+│   └── session4/
 ```
 
 ## Contribution

@@ -1,35 +1,34 @@
-# Session 2 : Sensorica et l'économie p2p
+# Session 2 : Blockchain et cryptomonnaies
 
 ## Intervenant
-Tibi, fondateur de Sensorica
+Pascal Ngu Cho, expert en Blockchain et marche des cryptomonnaies
 
 ## Objectifs
-- Comprendre les principes fondamentaux de l'économie P2P
-- Explorer le modèle de collaboration ouverte
-- Étudier des exemples concrets à travers Sensorica
+- Maîtriser les fondamentaux de la technologie blockchain
+- Comprendre les principes des cryptomonnaies
+- Explorer les différentes applications des technologies Blockchain
+- Découvrir les nouveaux paradigmes (NFT, DeFi, SocialFi, GameFi)
 
 ## Plan détaillé
 
-### 1. Introduction à l'économie P2P
-- Définition et concepts clés
+### 1. Fondamentaux de la technologie blockchain
+- Architecture et principes de base
+- Mécanismes de consensus
+- Sécurité et cryptographie
+- Smart contracts
+
+### 2. Fondamentaux des cryptomonnaies
 - Histoire et évolution
-- Avantages et défis
+- Types de cryptomonnaies
+- Aspects économiques
+- Régulation et enjeux
 
-### 2. Sensorica comme modèle
-- Présentation de Sensorica
-- Structure organisationnelle
-- Mécanismes de collaboration
-- Résultats et impacts
-
-### 3. La collaboration ouverte
-- Principes fondamentaux
-- Outils et méthodologies
-- Cas d'usage pratiques
-
-### 4. Discussion et applications
-- Études de cas
-- Opportunités d'implémentation
-- Questions et réponses
+### 3. Applications des technologies Blockchain
+- NFT (Non-Fungible Tokens)
+- DeFi (Finance Décentralisée)
+- SocialFi (Finance Sociale)
+- GameFi (Finance dans les Jeux)
+- Autres cas d'usage innovants
 
 ## Ressources
 - [Documentation Sensorica]

@@ -1,38 +1,35 @@
-# Session 1 : Introduction à La Tramice et aux outils de reconnaissance
+# Session 1 : Sensorica et l'économie p2p
 
 ## Intervenant
-Frédo, fondateur de La Tramice
+Tibi, fondateur de Sensorica
 
 ## Objectifs
-- Familiariser les participants avec la philosophie derrière La Tramice
-- Comprendre l'utilité et le fonctionnement des carnets de reconnaissance
-- Explorer le concept des volios
-- Illustrer les applications pratiques de ces outils
+- Comprendre le modèle d'économie P2P
+- Explorer les principes de la collaboration ouverte
+- Étudier des cas concrets
+- Analyser les implications pratiques
 
 ## Plan détaillé
 
-### 1. Introduction à La Tramice
-- Présentation du concept
-- Histoire et origine
-- Principes fondamentaux
-- Applications actuelles
+### 1. Introduction au modèle d'économie P2P
+- Définition et concepts fondamentaux
+- Évolution historique
+- Enjeux actuels
 
-### 2. Les carnets de reconnaissance
-- Définition et objectifs
-- Structure et composants
-- Utilisation pratique
-- Exemples concrets
+### 2. Principes de la collaboration ouverte
+- Fondements théoriques
+- Mécanismes de coordination
+- Gouvernance distribuée
 
-### 3. Les volios
-- Concept et principes
-- Fonctionnement
-- Cas d'usage
-- Démonstrations
+### 3. Étude de cas concrets
+- Présentation de Sensorica
+- Autres initiatives P2P
+- Retours d'expérience
 
-### 4. Applications pratiques
-- Études de cas
-- Exercices pratiques
-- Discussion et retours d'expérience
+### 4. Implications pratiques
+- Défis et opportunités
+- Aspects économiques
+- Impact social et organisationnel
 
 ## Ressources
 - [Liens vers les présentations et documents]
